@@ -1,5 +1,5 @@
 # EasyScan
-BotNet Scanner For Educational Purposes.<br/>
+Scanner For Educational Purposes.<br/>
 Scans SSH & Telnet protocols to find and brute.<br/>
 Easy to use and recieves auto updates and free lists etc.<br/>
 Will be adding exploits and other features eventually + tutorials for educational purposes.<br/>
